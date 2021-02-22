@@ -11,7 +11,7 @@ from datetime import datetime, timezone, timedelta
 #         if os.path.splitext(files)[1] == '.json':
 #             File_Name.append(files)
 #     return File_Name
-path = 'youth_data/youth_xxm.json'
+path = 'youth_xxm.json'
     
 headers = {
     'request_time': '1613652568',
